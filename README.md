@@ -1,4 +1,4 @@
-
+![image alt]https://github.com/darpanthakur1002-creator/my-portfolio/blob/8ae0575e78f228f73f8a00d571ee64d9fb1f4da9/Screenshot%202026-05-21%20010931.png
  
   
   #name - Darpan Thakur 
