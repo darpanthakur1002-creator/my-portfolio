@@ -1,6 +1,6 @@
 
 #name - Darpan Thakur 
-
+                                                                                                                              ![image alt](image_url)
 ## Contact Information
 - **Name:** Darpan Thakur
 - **Phone:** 8459488744
