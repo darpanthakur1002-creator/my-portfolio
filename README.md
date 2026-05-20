@@ -45,4 +45,6 @@ Motivated and enthusiastic Direct Second Year Diploma student with a strong inte
 - Dedicated and Hardworking
 - Interested in Learning New Technologies
 - Teamwork and Communication
+
+ 
  ![image alt](https://github.com/darpanthakur1002-creator/my-portfolio/blob/7e2f1caa5315973ff5b85114d156f125fc869f36/Screenshot%202026-05-21%20004731.png)
