@@ -1,4 +1,6 @@
- ![image alt](https://github.com/darpanthakur1002-creator/my-portfolio/blob/7e2f1caa5315973ff5b85114d156f125fc869f36/Screenshot%202026-05-21%20004731.png)
+                                                   ![image alt](https://github.com/darpanthakur1002-creator/my-portfolio/blob/7e2f1caa5315973ff5b85114d156f125fc869f36/Screenshot%202026-05-21%20004731.png)
+ 
+  
   #name - Darpan Thakur 
                                                                    
 ## Contact Information
