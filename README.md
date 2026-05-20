@@ -1,6 +1,6 @@
 
 #name - Darpan Thakur 
-                                                                                                                              ![image alt](image_url)
+                                                                     ![image alt](https://github.com/darpanthakur1002-creator/my-portfolio/blob/main/portiphilo.html)
 ## Contact Information
 - **Name:** Darpan Thakur
 - **Phone:** 8459488744
