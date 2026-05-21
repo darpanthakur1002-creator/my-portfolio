@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 ![image alt](https://github.com/darpanthakur1002-creator/my-portfolio/blob/9fae08bc3705a91d5d3b50358fea8ac0d70a17b4/Screenshot%202026-05-21%20011339.png) 
   
  #name - Darpan Thakur 
@@ -7,12 +12,8 @@
 - **Name:** Darpan Thakur
 - **Phone:** 8459488744
 - **Email:** darpanthakur1002@gmail.com
-- <h2 align="left">About me</h2>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
-</div>
 
+---
 ###
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
